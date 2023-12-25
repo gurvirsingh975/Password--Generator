@@ -34,4 +34,5 @@ it asks if you need uppercase , lowercase ,numbers and symbols and once you sele
 generate a random password 
 
 ##Link
-
+Deployment link:https://gurvirsingh975.github.io/Password--Generator/
+Github Link:https://github.com/gurvirsingh975/Password--Generator
