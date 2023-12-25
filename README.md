@@ -1,4 +1,6 @@
 # Password Generator
+This is a application that generates a random password that consists of 8-126 characters which includes
+lowercase,uppercase,numbers and Symbols.
 
 ##User Story
 AS AN employee with access to sensitive data
@@ -23,10 +25,13 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
+
 ###Changes to the Website 
-Added code so that once can generate a random password that consists of 12 characters that includes
+Added js  code so that one can generate a random password that consists of 8-126 characters that includes
 lowercase,uppercase,numbers and Symbols.
+It will prompt asking how many characters should it consist of and then
+it asks if you need uppercase , lowercase ,numbers and symbols and once you select the options , it will
+generate a random password 
 
 ##Link
-https://github.com/gurvirsingh975/Password-Generator
 
